@@ -1,0 +1,30 @@
+
+*
+ {
+    margin: 0px;
+    padding: 0px;
+}
+.one,.three{
+    height: 300px;
+    width: 100%;
+    background-color: blueviolet;
+    border: 10px solid;
+    display: flex;
+     flex-direction: row; 
+    justify-content:space-evenly;
+    align-items: center;
+}
+
+.three{
+    background-color: pink;
+}
+
+.two,.four{
+    width: 100px;
+    height: 100px;
+    border:  solid;
+    
+
+}
+
+
